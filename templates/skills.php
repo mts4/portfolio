@@ -44,15 +44,15 @@
             <div class="col-md-6 col-lg-4 mb-5">
                 <div class="featured-box style-3">
                     <div class="featured-box-icon text-primary border border-dark rounded-circle"> <i class="fas fa-expand-alt"></i> </div>
-                    <h3 class="text-white">Empatía</h3>
-                    <p class="text-white-50 mb-0">.</p>
+                    <h3 class="text-white">Meet</h3>
+                    <p class="text-white-50 mb-0">Iniciativa para generar reuniones.</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-5">
                 <div class="featured-box style-3">
                     <div class="featured-box-icon text-primary border border-dark rounded-circle"> <i class="far fa-life-ring"></i> </div>
                     <h3 class="text-white">Claridad</h3>
-                    <p class="text-white-50 mb-0">Especifico.</p>
+                    <p class="text-white-50 mb-0">Entender lo que se requiere para llevarlo a cabo.</p>
                 </div>
             </div>
         </div>
