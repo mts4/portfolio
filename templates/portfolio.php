@@ -5,20 +5,20 @@
         <!-- Heading -->
         <div class="row mb-5 wow fadeIn">
             <div class="col-lg-9 col-xl-8 mx-auto text-center">
-                <h2 class="font-weight-600 text-white mb-3">Our Best Works</h2>
+                <h2 class="font-weight-600 text-white mb-3">Proyectos</h2>
                 <hr class="heading-separator-line border-2 border-primary">
-                <p class="text-4 text-white-50">I help you build brand for your business at an affordable price. Thousands of clients have procured exceptional results while working with Me.</p>
+                <p class="text-4 text-white-50">Te ayudo a construir un sitio web para tu negocio.</p>
             </div>
         </div>
         <!-- Heading End -->
 
         <!-- Filter Menu -->
         <ul class="portfolio-menu nav nav-pills nav-light nav-sm text-uppercase justify-content-center border-bottom-0 mb-4 wow fadeInUp">
-            <li class="nav-item"> <a data-filter="*" class="nav-link rounded-pill active" href="">All</a></li>
-            <li class="nav-item"> <a data-filter=".graphicdesign" href="" class="nav-link rounded-pill">Graphic Design</a></li>
-            <li class="nav-item"> <a data-filter=".webdesign" href="" class="nav-link rounded-pill">Web Design</a></li>
-            <li class="nav-item"> <a data-filter=".artwork" href="" class="nav-link rounded-pill">Art Work</a></li>
-            <li class="nav-item"> <a data-filter=".branding" href="" class="nav-link rounded-pill">Branding</a></li>
+            <li class="nav-item"> <a data-filter="*" class="nav-link rounded-pill active" href="">Todos</a></li>
+            <li class="nav-item"> <a data-filter=".graphicdesign" href="" class="nav-link rounded-pill">WordPress</a></li>
+            <li class="nav-item"> <a data-filter=".webdesign" href="" class="nav-link rounded-pill">React JS</a></li>
+            <li class="nav-item"> <a data-filter=".artwork" href="" class="nav-link rounded-pill">Landing Pages</a></li>
+            <li class="nav-item"> <a data-filter=".branding" href="" class="nav-link rounded-pill">Ecommerce</a></li>
         </ul>
         <!-- Filter Menu end -->
 

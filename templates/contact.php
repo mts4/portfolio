@@ -5,9 +5,9 @@
         <!-- Heading -->
         <div class="row mb-5 wow fadeIn">
             <div class="col-lg-9 col-xl-8 mx-auto text-center">
-                <h2 class="font-weight-600 text-white mb-3">Contact Us</h2>
+                <h2 class="font-weight-600 text-white mb-3">Contacto</h2>
                 <hr class="heading-separator-line border-2 border-primary">
-                <p class="text-4 text-white-50">Send me a note, and let’s get started on your project today!</p>
+                <p class="text-4 text-white-50">Envíame un mensaje y comencemos hoy mismo con tu proyecto.</p>
             </div>
         </div>
         <!-- Heading End -->
@@ -19,20 +19,20 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input name="name" type="text" class="form-control bg-transparent border-dark border-2" required placeholder="Your Name">
+                                <input name="name" type="text" class="form-control bg-transparent border-dark border-2" required placeholder="Tu Nombre">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input name="email" type="email" class="form-control bg-transparent border-dark border-2" required placeholder="Your Email">
+                                <input name="email" type="email" class="form-control bg-transparent border-dark border-2" required placeholder="Tu Email">
                             </div>
                         </div>
                     </div>
                     <div class="form-group mt-2">
-                        <textarea name="form-message" class="form-control bg-transparent border-dark border-2" rows="4" required placeholder="Tell us more about your needs........"></textarea>
+                        <textarea name="form-message" class="form-control bg-transparent border-dark border-2" rows="4" required placeholder="Háblame sobre lo que necesites..."></textarea>
                     </div>
                     <p class="text-center mt-5 mb-0">
-                        <button id="submit-btn" class="btn btn-primary rounded-pill d-inline-flex" type="submit">Send Message</button>
+                        <button id="submit-btn" class="btn btn-primary rounded-pill d-inline-flex" type="submit">Enviar Mensaje</button>
                     </p>
                 </form>
             </div>
@@ -51,7 +51,7 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="featured-box text-center my-3 my-md-0 wow bounceIn">
                         <div class="featured-box-icon text-muted"> <i class="fas fa-phone-alt"></i> </div>
-                        <h3 class="text-uppercase text-white">Call Us Now</h3>
+                        <h3 class="text-uppercase text-white">Llámame ahora</h3>
                         <p class="text-white-50 mb-0">Fono: (+569) 5724 3741</p>
                     </div>
                 </div>
