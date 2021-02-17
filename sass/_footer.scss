@@ -124,6 +124,9 @@
     }
     i {
       line-height: inherit;
+      &:hover{
+        color: #e83e8c !important;
+      }
     }
   }
   &.social-icons-sm li{

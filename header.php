@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-6 d-flex justify-content-start justify-content-sm-center">
                         <!-- Logo -->
-                        <a class="logo" href="index.html" title="AMUSDEV"> <img src="images/logo-light.png" alt="AMUSDEV" /> </a>
+                        <a class="logo" href="/" title="AMUSDEV"> <img src="images/logo.png" alt="Logo AMUSDEV" /> </a>
                         <!-- Logo End -->
                     </div>
                     <div class="col-3 navbar-accordion d-flex justify-content-end">
