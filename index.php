@@ -8,7 +8,7 @@
   ?>
   <?php include 'templates/skills.php'; ?>
   <?php include 'templates/promo.php'; ?>
-  <?php include 'templates/portfolio.php'; ?>
+  <?php //include 'templates/portfolio.php'; ?>
   <?php //include 'templates/process.php'; 
   ?>
   <?php //include 'templates/clients.php'; 
