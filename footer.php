@@ -16,7 +16,7 @@
                 <a data-toggle="tooltip" href="https://www.instagram.com/mati__us/" target="_blank" title="" data-original-title="Instagram"><i class="fab fa-instagram"></i></a>
             </li>
         </ul>
-        <p class="text-muted text-center">Copyright &copy; 2020 <a href="#">amusdev</a>. All Rights Reserved.</p>
+        <p class="text-muted text-center">Copyright &copy; 2020 <a href="javascript:void(0);">amusdev</a>. All Rights Reserved.</p>
         <!-- <ul class="nav text-2 justify-content-center wow fadeIn">
             <li class="nav-item"> <a class="nav-link" data-toggle="modal" data-target="#terms-policy" href="#">Terms & Policy</a></li>
             <li class="nav-item"> <a class="nav-link" data-toggle="modal" data-target="#disclaimer" href="#">Disclaimer</a></li>

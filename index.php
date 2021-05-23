@@ -8,7 +8,7 @@
   ?>
   <?php include 'templates/skills.php'; ?>
   <?php include 'templates/promo.php'; ?>
-  <?php //include 'templates/portfolio.php'; ?>
+  <?php include 'templates/portfolio.php'; ?>
   <?php //include 'templates/process.php'; 
   ?>
   <?php //include 'templates/clients.php'; 
@@ -26,7 +26,7 @@
 
 <!-- Terms & Policy Modal
 ================================== -->
-<div id="terms-policy" class="modal fade" role="dialog" aria-hidden="true">
+<!-- <div id="terms-policy" class="modal fade" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
     <div class="modal-content bg-dark-2 text-light">
       <div class="modal-header border-secondary">
@@ -57,12 +57,12 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!-- Terms & Policy Modal End -->
 
 <!-- Disclaimer Modal
 ================================== -->
-<div id="disclaimer" class="modal fade" role="dialog" aria-hidden="true">
+<!-- <div id="disclaimer" class="modal fade" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
     <div class="modal-content bg-dark-2 text-light">
       <div class="modal-header border-secondary">
@@ -83,7 +83,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!-- Disclaimer Modal End -->
 
 
