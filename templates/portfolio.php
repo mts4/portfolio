@@ -15,16 +15,15 @@
         <!-- Filter Menu -->
         <ul class="portfolio-menu nav nav-pills nav-light nav-sm text-uppercase justify-content-center border-bottom-0 mb-4 wow fadeInUp">
             <li class="nav-item"> <a data-filter="*" class="nav-link rounded-pill active" href="">Todos</a></li>
-            <li class="nav-item"> <a data-filter=".graphicdesign" href="" class="nav-link rounded-pill">WordPress</a></li>
-            <li class="nav-item"> <a data-filter=".webdesign" href="" class="nav-link rounded-pill">React JS</a></li>
-            <li class="nav-item"> <a data-filter=".artwork" href="" class="nav-link rounded-pill">Landing Pages</a></li>
-            <li class="nav-item"> <a data-filter=".branding" href="" class="nav-link rounded-pill">Ecommerce</a></li>
+            <li class="nav-item"> <a data-filter=".wordpress" href="" class="nav-link rounded-pill">WordPress</a></li>
+            <li class="nav-item"> <a data-filter=".reactjs" href="" class="nav-link rounded-pill">React JS</a></li>
+            <li class="nav-item"> <a data-filter=".landings" href="" class="nav-link rounded-pill">Landing Pages</a></li>
         </ul>
         <!-- Filter Menu end -->
 
         <div class="portfolio popup-ajax-gallery wow fadeInUp">
             <div class="row portfolio-filter">
-                <div class="col-sm-6 col-lg-4 artwork">
+                <div class="col-sm-6 col-lg-4 reactjs">
                     <div class="portfolio-box rounded my-3">
                         <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/designo-cover.jpg" alt="">
                             <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-designo.html"></a>
