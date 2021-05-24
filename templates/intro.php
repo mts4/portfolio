@@ -9,8 +9,7 @@
                 <div class="row">
                     <div class="col-12 text-center">
                         <div class="typed-strings">
-                            <p>Desarrollador Full-Stack</p>
-                            <p>MERN Stack</p>
+                            <p>Full Stack Developer</p>
                         </div>
                         <p class="text-8 font-weight-500 text-white mb-2 mb-md-3"><span class="typed"></span></p>
                         <h2 class="text-20 font-weight-600 text-white mb-2 mb-md-3">Alexander Urrutia</h2>

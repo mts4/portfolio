@@ -26,116 +26,12 @@
             <div class="row portfolio-filter">
                 <div class="col-sm-6 col-lg-4 artwork">
                     <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-1.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-1.html"></a>
+                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/designo-cover.jpg" alt="">
+                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-designo.html"></a>
                                 <div class="portfolio-overlay-details">
                                     <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 1</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 artwork">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-2.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-2.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 2</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 artwork branding">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-3.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-3.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 3</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 artwork">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-4.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-4.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 4</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 webdesign">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-5.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-5.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 5</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 webdesign">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-6.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-6.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 6</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 webdesign graphicdesign">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-7.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-7.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 7</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 webdesign">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-8.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-8.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 8</h5>
-                                    <span class="text-light">Category</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-4 graphicdesign branding">
-                    <div class="portfolio-box rounded my-3">
-                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-dark-9.jpg" alt="">
-                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-dark-9.html"></a>
-                                <div class="portfolio-overlay-details">
-                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
-                                    <h5 class="text-white font-weight-400">Project Title 9</h5>
-                                    <span class="text-light">Category</span>
+                                    <h5 class="text-white font-weight-400">Designo App</h5>
+                                    <span class="text-light">React JS</span>
                                 </div>
                             </div>
                         </div>
