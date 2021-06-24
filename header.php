@@ -76,11 +76,11 @@
                                 <li class="nav-item"><a class="nav-link smooth-scroll active" href="#home">Inicio</a></li>
                                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Sobre Mí</a></li>
                                 <!-- <li class="nav-item"><a class="nav-link smooth-scroll" href="#services">Services</a></li> -->
-                                <li class="nav-item"><a class="nav-link smooth-scroll" href="#why-choose">Why Choose</a></li>
+                                <!-- <li class="nav-item"><a class="nav-link smooth-scroll" href="#why-choose">Why Choose</a></li> -->
                                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portafolio</a></li>
                                 <!-- <li class="nav-item"><a class="nav-link smooth-scroll" href="#process">Process</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#clients">Clients</a></li> -->
-                                <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+                                <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contacto</a></li>
                             </ul>
                             <div class="mt-auto text-center text-2">
                                 <ul class="social-icons social-icons-sm social-icons-light justify-content-center mr-n1 mr-lg-0">
