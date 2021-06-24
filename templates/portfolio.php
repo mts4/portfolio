@@ -36,6 +36,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-sm-6 col-lg-4 reactjs">
+                    <div class="portfolio-box rounded my-3">
+                        <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/ipsumapp-cover.jpg" alt="">
+                            <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-designo.html"></a>
+                                <div class="portfolio-overlay-details">
+                                    <p class="text-white text-6"><i class="fas fa-plus"></i></p>
+                                    <h5 class="text-white font-weight-400">Ipsum App</h5>
+                                    <span class="text-light">React JS</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

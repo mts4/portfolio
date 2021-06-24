@@ -6,7 +6,8 @@
   <?php include 'templates/about.php'; ?>
   <?php //include 'templates/services.php'; 
   ?>
-  <?php include 'templates/skills.php'; ?>
+  <?php //include 'templates/skills.php'; 
+  ?>
   <?php include 'templates/promo.php'; ?>
   <?php include 'templates/portfolio.php'; ?>
   <?php //include 'templates/process.php'; 
